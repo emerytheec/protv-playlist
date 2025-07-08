@@ -1,12 +1,209 @@
 {
   "entries": [
     {
-      "title": "Video 1",
-      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "title": "You've Been Trolled (The Musical)",
+      "url": "https://www.youtube.com/watch?v=gvYfRiJQIX8",
+      "tags": ["type:music"]
     },
     {
-      "title": "Video 2",
-      "url": "https://www.youtube.com/watch?v=C4R8o3kdggg"
+      "title": "The GAG Quartet - le Internet Medley (OVER 40 MEMES IN ONE SONG)",
+      "url": "https://www.youtube.com/watch?v=mghhLqu31cQ",
+      "tags": ["band", "type:music"]
+    },
+    {
+      "title": "\"Weird\" Al Yankovic - Amish Paradise",
+      "url": "https://www.youtube.com/watch?v=lOfZLb33uCg",
+      "tags": ["original", "type:music", "parody"]
+    },
+    {
+      "title": "The Duck Song",
+      "url": "https://www.youtube.com/watch?v=MtN1YnoL46Q",
+      "tags": ["type:music"]
+    },
+    {
+      "title": "\"Shia LaBeouf\" Live - Rob Cantor",
+      "url": "https://www.youtube.com/watch?v=o0u4M6vppCI",
+      "tags": ["type:music", "original", "genre:satire"]
+    },
+    {
+      "title": "Potion Seller",
+      "url": "https://www.youtube.com/watch?v=R_FQU4KzN7A&t=2s",
+      "tags": ["original", "type:skit"]
+    },
+    {
+      "title": "Dumb Ways to Die",
+      "url": "https://www.youtube.com/watch?v=IJNR2EpS0jw",
+      "tags": ["type:music", "psa"]
+    },
+    {
+      "title": "\"Fallen Kingdom\" - A Minecraft Parody",
+      "url": "https://www.youtube.com/watch?v=I-sH53vXP2A",
+      "tags": ["type:music", "minecraft", "genre:parody"]
+    },
+    {
+      "title": "Llamas with Hats 1-12: The Complete Series",
+      "url": "https://www.youtube.com/watch?v=jJOwdrTA8Gw",
+      "tags": ["type:compilation", "notsalmon", "shorts"]
+    },
+    {
+      "title": "asdfmovie 1-14 (Complete Collection)",
+      "url": "https://www.youtube.com/watch?v=jjS5UTRE8zY",
+      "tags": ["type:compilation", "shorts"]
+    },
+    {
+      "title": "Scatman (Ski Ba Bop Ba Dop Bop)",
+      "url": "https://www.youtube.com/watch?v=pVHKp6ffURY",
+      "tags": ["type:music", "original"]
+    },
+    {
+      "title": "Smash Mouth - All Star",
+      "url": "https://www.youtube.com/watch?v=L_jWHffIx5E",
+      "tags": ["type:music", "original", "overplayed"]
+    },
+    {
+      "title": "Nyan Cat",
+      "url": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
+      "tags": ["type:music", "looped"]
+    },
+    {
+      "title": "Crazy Frog - Axel F (Official Video)",
+      "url": "https://www.youtube.com/watch?v=k85mRPqvMbE",
+      "tags": ["type:music", "cover", "overplayed"]
+    },
+    {
+      "title": "Charlie the Unicorn",
+      "url": "https://www.youtube.com/watch?v=CsGYh8AacgY",
+      "tags": ["notsalmon", "type:skit"]
+    },
+    {
+      "title": "Bad Apple!!",
+      "url": "https://www.youtube.com/watch?v=FtutLA63Cp8",
+      "tags": ["original", "type:music"]
+    },
+    {
+      "title": "Ylvis - The Fox (What Does The Fox Say?)",
+      "url": "https://www.youtube.com/watch?v=jofNR_WkoCE",
+      "tags": ["type:music", "cringe"]
+    },
+    {
+      "title": "Eiffel 65 - Blue [Official Video]",
+      "url": "https://www.youtube.com/watch?v=XgztfRBc2jM",
+      "tags": ["type:music", "year:1999"]
+    },
+    {
+      "title": "We are Number One",
+      "url": "https://www.youtube.com/watch?v=PfYnvDL0Qcw",
+      "tags": ["type:music", "kids", "original"]
+    },
+    {
+      "title": "Bloodhound Gang - The Bad Touch",
+      "url": "https://www.youtube.com/watch?v=xat1GVnl8-k",
+      "tags": ["type:music", "adults"]
+    },
+    {
+      "title": "PSY - GANGNAM STYLE",
+      "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "tags": ["type:music", "famous"]
+    },
+    {
+      "title": "Dog of Wisdom",
+      "url": "https://www.youtube.com/watch?v=D-UmfqFjpl0",
+      "tags": ["animated", "type:skit"]
+    },
+    {
+      "title": "Numa Numa",
+      "url": "https://www.youtube.com/watch?v=KmtzQCSh6xk",
+      "tags": ["original", "type:music", "famous"]
+    },
+    {
+      "title": "Epic Sax Guy",
+      "url": "https://www.youtube.com/watch?v=gy1B3agGNxw",
+      "tags": ["type:music", "extended_version"]
+    },
+    {
+      "title": "Rick Astley - Never Gonna Give You Up",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "tags": ["type:music", "infamous"]
+    },
+    {
+      "title": "Hatsune Miku - Ievan Polkka",
+      "url": "https://www.youtube.com/watch?v=widZEAJc0QM",
+      "tags": ["type:music", "goofy"]
+    },
+    {
+      "title": "Chinese Weaboo plays Osu!",
+      "url": "https://www.youtube.com/watch?v=Yt6PPkTDsWg",
+      "tags": ["type:music", "skit"]
+    },
+    {
+      "title": "Not The Momma!",
+      "url": "https://www.youtube.com/watch?v=HNR4hKbSH7I",
+      "tags": ["type:tvshow", "supercut"]
+    },
+    {
+      "title": "Fabulous Secret Powers",
+      "url": "https://www.youtube.com/watch?v=FR7wOGyAzpw",
+      "tags": ["type:music", "genre:parody"]
+    },
+    {
+      "title": "John Cena Prank Call",
+      "url": "https://www.youtube.com/watch?v=wRRsXxE1KVY",
+      "tags": ["type:talkshow", "prank"]
+    },
+    {
+      "title": "Hot Food | Michael Rosen",
+      "url": "https://www.youtube.com/watch?v=Akwm2UZJ34o",
+      "tags": ["short", "poem", "kids"]
+    },
+    {
+      "title": "Outkast - Hey Ya!",
+      "url": "https://www.youtube.com/watch?v=PWgvGjAhvIw",
+      "tags": ["type:music", "original"]
+    },
+    {
+      "title": "This Aerobic Video Wins Everything",
+      "url": "https://www.youtube.com/watch?v=vgupMynCnOo",
+      "tags": ["type:music", "dance", "fitness"]
+    },
+    {
+      "title": "When Mama Isn't Home",
+      "url": "https://www.youtube.com/watch?v=CgHW02YF50s",
+      "tags": ["type:music", "short"]
+    },
+    {
+      "title": "BED INTRUDER SONG!!!",
+      "url": "https://www.youtube.com/watch?v=hMtZfW2z9dw&t=75",
+      "tags": ["type:music", "genre:parody", "news"]
+    },
+    {
+      "title": "The Rap Battle (PARODY)",
+      "url": "https://www.youtube.com/watch?v=MeB3eYk1Ze0",
+      "tags": ["type:skit", "genre:satire"]
+    },
+    {
+      "title": "Spooky Scary Skeleton Dance Remix",
+      "url": "https://www.youtube.com/watch?v=n_qbGJuxCYY",
+      "tags": ["type:music", "genre:remix"]
+    },
+    {
+      "title": "PONPONPON - Kyary Pamyu Pamyu",
+      "url": "https://www.youtube.com/watch?v=yzC4hFK5P3g",
+      "tags": ["type:music", "original", "genre:jpop"]
+    },
+    {
+      "title": "Caramelldansen HD - Caramella Girls",
+      "url": "https://www.youtube.com/watch?v=6-8E4Nirh9s",
+      "tags": ["type:music", "original", "genre:pop"]
+    },
+    {
+      "title": "WORLD ORDER - BOY MEETS GIRL",
+      "url": "https://www.youtube.com/watch?v=35hCo_grAqw",
+      "tags": ["type:music", "original"]
+    },
+    {
+      "title": "009 Sound System - Dreamscape",
+      "url": "https://www.youtube.com/watch?v=2WPCLda_erI",
+      "tags": ["type:music", "original", "infamous"]
     }
   ]
 }
